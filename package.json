@@ -18,6 +18,7 @@
   "homepage": "https://github.com/wzalazar/strategy-merge#readme",
   "devDependencies": {
     "@semantic-release/git": "7.0.16",
+    "@semantic-release/github": "5.4.3",
     "semantic-release": "15.13.24"
   }
 }
