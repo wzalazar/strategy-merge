@@ -1,0 +1,23 @@
+{
+  "name": "strategy-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzalazar/strategy-merge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzalazar/strategy-merge/issues"
+  },
+  "homepage": "https://github.com/wzalazar/strategy-merge#readme",
+  "devDependencies": {
+    "@semantic-release/git": "7.0.16",
+    "semantic-release": "15.13.24"
+  }
+}
